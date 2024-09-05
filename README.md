@@ -10,3 +10,6 @@
 
 ### 최근커밋 수정    git commit --amend
 ### 두 커밋사이 차이점 볼때 git diff 비교하고싶은 커밋 두개
+### HEAD는 현재 커밋을 가리키는것
+### 커밋변경 git reset --hard eea5         (eea5 << 커밋id)
+### --hard  --soft  --mixed
