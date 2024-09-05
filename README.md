@@ -7,5 +7,6 @@
 
 ### git log --pretty=oneline
 ### git show 커밋id 4자리 
- 
+
 ### 최근커밋 수정    git commit --amend
+### 두 커밋사이 차이점 볼때 git diff 비교하고싶은 커밋 두개
