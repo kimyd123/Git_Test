@@ -6,5 +6,6 @@
 ### 5..dddd
 
 ### git log --pretty=oneline
-### git show 커밋id 4자리  
-### 커밋내용 바꾸기
+### git show 커밋id 4자리 
+ 
+### 최근커밋 수정    git commit --amend
