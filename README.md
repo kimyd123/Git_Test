@@ -29,7 +29,8 @@
 (2) staging area도 특정 커밋처럼 리셋(--mixed는 여기까지 수행)
 
 (3) working directory도 특정 커밋처럼 리셋(--hard는 여기까지 수행)
----------------------------------
+
+
 staging area와 HEAD의 개념을 반영해서 정리하자면 git reset 후 복구를 위해선
 
 -- soft :
@@ -49,3 +50,8 @@ git pull
 
 ## git tag [태그 이름] [커밋 아이디]
 특정 커밋에 태그를 붙임
+
+
+-----------------------
+### 브랜치
+ master branch 는 기본 브랜치
