@@ -24,3 +24,8 @@ git commit
 
 --hard : 
 git pull
+
+### git reset --hard HEAD^   
+현재 HEAD가 가리키고 있는 커밋의 바로 이전 커밋
+### git reset --hard HEAD~2
+현재 HEAD가 가리키는 커밋보다 2단계 전에 있는 커밋
