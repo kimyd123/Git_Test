@@ -13,3 +13,14 @@
 ### HEAD는 현재 커밋을 가리키는것
 ### 커밋변경 git reset --hard eea5         (eea5 << 커밋id)
 ### --hard  --soft  --mixed
+staging area와 HEAD의 개념을 반영해서 정리하자면 git reset 후 복구를 위해선
+
+-- soft :
+git commit
+
+--mixed :
+git add .
+git commit
+
+--hard : 
+git pull
