@@ -55,3 +55,4 @@ git pull
 -----------------------
 ### 브랜치
  master branch 는 기본 브랜치
+ merge 확인 
